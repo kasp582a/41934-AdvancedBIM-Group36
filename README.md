@@ -1,9 +1,13 @@
 # 41934 - Advanced BIM - Group 36
 
+##
+a few line to introduce
+
 ### Group members
 Harald Lyngbye (s203615)  
 Thomas Lyskjær (s203626)  
 Kasper Bengtsson (s203628)
+
 
 
 # 3A: Analyse use case
