@@ -19,7 +19,7 @@ The IDM diagram can bee seen in BIM execution plan under process.
 
 ## 2
 The description of the process of your tool / workflow can also bee seen in the BIM execution plan under process
-[Link to the Process section](BIM_ExecutionPlan.md#Description of Process)
+[Link to the Process section](BIM_ExecutionPlan.md#Description)
 
 
 # 3D: Value What is the potential improvement offered by this tool? 
