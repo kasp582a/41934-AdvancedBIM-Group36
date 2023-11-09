@@ -58,7 +58,7 @@ The model used and the modified model are uploaded on learn due to them beeing a
 # Phyton script 
 The Python script created for this assignment is designed to enhance an IFC file by inserting structural parameters such as the moment of inertia and Young's modulus of elasticity. This is achieved by creating a new PropertySet and inserting properties. For this task, a new PropertySet has been associated with a specific beam element named "Rectangular and Square Hollow Sections:SB10:2518553," bearing the global ID: 0PBox$QKjEKQwoUJvZkwUp.
 ## Picture of the new PropertySet in blender
-![Alt text](images/property_set.JPG)
+![Alt text](property_set.JPG)
 
 
 ## Phyton code
