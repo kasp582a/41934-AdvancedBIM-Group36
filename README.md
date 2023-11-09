@@ -17,7 +17,7 @@ The goal of the tool can bee seen in the BIM execution plan under goal.
 
 ## 2
 the model Use  can bee seen in the BIM execution plan under xxx.
-[Link to the model section](BIM_ExecutionPlan.md#Model use)
+[Link to the model section](BIM_ExecutionPlan.md#Model)
 
 # 3B: Propose a (design for a) tool / workflow
 ## 1
