@@ -12,11 +12,12 @@ Kasper Bengtsson (s203628)
 
 # 3A: Analyse use case
 ## 1
-The goal of the tool can bee seen in the BIM execution plan under xxx.
+The goal of the tool can bee seen in the BIM execution plan under goal.
+[Link to the goal section](BIM_ExecutionPlan.md#Goal)
 
 ## 2
 the model Use  can bee seen in the BIM execution plan under xxx.
-
+[Link to the model section](BIM_ExecutionPlan.md#Model use)
 
 # 3B: Propose a (design for a) tool / workflow
 ## 1
