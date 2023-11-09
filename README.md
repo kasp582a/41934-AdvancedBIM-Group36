@@ -51,4 +51,10 @@ The advanced analysis capabilities of the tool will likely facilitate early dete
 
 Material optimization directly contributes to environmental conservation by decreasing the demand for raw materials, thereby reducing the environmental footprint of construction projects.
 
+# IFC models
+
+The model used and the modified model are uploaded on learn due to them beeing a skylab model.
+
+# Phyton script 
+
 
