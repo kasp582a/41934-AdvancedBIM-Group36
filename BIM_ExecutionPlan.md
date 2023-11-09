@@ -12,7 +12,7 @@ Structural engineers will utilize the software for designing and optimizing beam
 <img src="Process.svg" alt="IDM diagram for the process, the part that has been made in this assignment is marked with scooped area">
 IDM diagram for the process, the part that has been made in this assignment is marked with scooped area
 
-<span id="Description of Process"></span>
+<span id="Description"></span>
 ## Description of Process
 
 - **Start Process:** The first step in the process.
