@@ -1,7 +1,7 @@
 # 41934 - Advanced BIM - Group 36
 
 ## Introduction
-The goal is to support the user in optimizing the building and reduce the use of material through FEM analysis. In this assigment there has been made a phyton script that make a new propertySet and inserting properties in a IFC file such as the moment of inertia and Young's modulus of elasticity. These new properties are ofc not enough we also need 
+The goal is to support the user in optimizing the building and reduce the use of material through FEM analysis. In this assigment there has been made a phyton script that make a new propertySet and inserting properties in a IFC file such as the moment of inertia and Young's modulus of elasticity. These new properties are ofc not enough we also need Support and actuel calculation, this will be futher be descibed in the report.
 
 ### Group members
 Harald Lyngbye (s203615)  
