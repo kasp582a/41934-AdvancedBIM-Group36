@@ -46,5 +46,4 @@ See IDM diagram for the process, the part that has been made in this assignment 
 
 # Information Exchange
 
-The level of detail required would be LOD 400. The reason is that we need a high enough detail level to have parameters in the elements, which will describe the material and geometry of the element as well as the location and orientation.
-Definitions of the properties, such as moment of inertia and Young’s modulus, are defined with buildingSMART Data Dictionary (bSDD).
+The level of detail required would be LOD 400. The reason is that we need a high enough detail level to have parameters in the elements, which will describe the material and geometry of the element as well as the location and orientation. Definitions of the properties, such as moment of inertia and Young’s modulus, are defined with buildingSMART Data Dictionary (bSDD).
