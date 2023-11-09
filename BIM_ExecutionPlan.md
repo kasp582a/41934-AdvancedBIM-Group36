@@ -11,8 +11,6 @@ See IDM diagram for the process, the part that has been made in this assignment 
 
 <img src="Process.svg" alt="Description of SVG image">
 
-![My SVG Image](Process.svg)
-
 
 ## Description of Process
 
