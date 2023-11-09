@@ -13,10 +13,12 @@ Kasper Bengtsson (s203628)
 # 3A: Analyse use case
 
 # 3B: Propose a (design for a) tool / workflow
-
+## 1
 The IDM diagram can bee seen in BIM execution plan under process.
 [Link to the Process section](BIM_ExecutionPlan.md#process)
 
+## 2
+The description of the process of your tool / workflow can also bee seen in the BIM execution plan under process
 
 # 3D: Value What is the potential improvement offered by this tool? 
 
