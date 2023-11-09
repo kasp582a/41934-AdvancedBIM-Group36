@@ -1,7 +1,7 @@
 # 41934 - Advanced BIM - Group 36
 
 ## Introduction
-This project aims to 
+The goal is to support the user in optimizing the building and reduce the use of material through FEM analysis. In this assigment there has been made a phyton script that make a new propertySet and inserting properties in a IFC file such as the moment of inertia and Young's modulus of elasticity. These new properties are ofc not enough we also need 
 
 ### Group members
 Harald Lyngbye (s203615)  
@@ -56,7 +56,7 @@ Material optimization directly contributes to environmental conservation by decr
 The model used and the modified model are uploaded on learn due to them beeing a skylab model.
 
 # Phyton script 
-The Python script created for this assignment is designed to enhance an IFC file by inserting structural parameters such as the moment of inertia and Young's modulus of elasticity. This is achieved by creating a new PropertySet and populating it with properties. For this task, a new PropertySet has been associated with a specific beam element named "Rectangular and Square Hollow Sections:SB10:2518553," bearing the global ID: 0PBox$QKjEKQwoUJvZkwUp.
+The Python script created for this assignment is designed to enhance an IFC file by inserting structural parameters such as the moment of inertia and Young's modulus of elasticity. This is achieved by creating a new PropertySet and inserting properties. For this task, a new PropertySet has been associated with a specific beam element named "Rectangular and Square Hollow Sections:SB10:2518553," bearing the global ID: 0PBox$QKjEKQwoUJvZkwUp.
 
 ## Phyton code
 
