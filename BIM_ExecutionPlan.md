@@ -6,6 +6,9 @@ The goal is to support the user in optimizing the building and reduce the use of
 
 Structural engineers will utilize the software for designing and optimizing beams and columns. This results in significant time and cost savings, as less material is utilized, and engineers can perform more calculations in a shorter timeframe.
 
+<span id="process"></span>
+# Process
+
 # Process
 
 <img src="Process.svg" alt="IDM diagram for the process, the part that has been made in this assignment is marked with scooped area">
