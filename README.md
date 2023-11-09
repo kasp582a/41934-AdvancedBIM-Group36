@@ -14,7 +14,7 @@ Kasper Bengtsson (s203628)
 
 # 3B: Propose a (design for a) tool / workflow
 
-See xxx in BIM execution plan.
+See process in BIM execution plan.
 
 # 3D: Value What is the potential improvement offered by this tool? 
 
