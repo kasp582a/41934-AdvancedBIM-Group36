@@ -2,7 +2,7 @@
 # Goal
 
 The goal is to support the user in optimizing the building and reduce the use of material through FEM analysis.
-<span id="Model use"></span>
+<span id="Model"></span>
 # Model Use
 
 Structural engineers will utilize the software for designing and optimizing beams and columns. This results in significant time and cost savings, as less material is utilized, and engineers can perform more calculations in a shorter timeframe.
