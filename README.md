@@ -14,7 +14,7 @@ Kasper Bengtsson (s203628)
 
 # 3B: Propose a (design for a) tool / workflow
 
-See process in BIM execution plan.
+The IDM diagram can bee seen in BIM execution plan under process.
 [Link to the Process section](BIM_ExecutionPlan.md#process)
 
 
