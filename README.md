@@ -1,7 +1,7 @@
 # 41934 - Advanced BIM - Group 36
 
 ## Introduction
-a few line to introduce
+This project aims to 
 
 ### Group members
 Harald Lyngbye (s203615)  
