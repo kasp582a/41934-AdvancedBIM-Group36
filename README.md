@@ -4,3 +4,7 @@
 Harald Lyngbye (s203615)  
 Thomas Lyskjær (s203626)  
 Kasper Bengtsson (s203628)
+
+
+[Process SVG](./Process.svg)
+
