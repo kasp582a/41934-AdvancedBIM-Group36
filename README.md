@@ -1,7 +1,7 @@
 # 41934 - Advanced BIM - Group 36
 
 ## Introduction
-The goal is to support the user in optimizing the building and reduce the use of material through FEM analysis. In this assigment there has been made a phyton script that make a new propertySet and inserting properties in a IFC file such as the moment of inertia and Young's modulus of elasticity. These new properties are ofc not enough we also need Support and actuel calculation, this will be futher be descibed in the report.
+The goal is to assist the user in optimizing the building and reducing material usage through FEM analysis. In this assignment, a Python script has been created to make a new property set and insert properties into an IFC file, such as the moment of inertia and Young's modulus of elasticity. These new properties are, of course, not sufficient, we also need support and actual calculations, which will be further described in the report
 
 ### Group members
 Harald Lyngbye (s203615)  
