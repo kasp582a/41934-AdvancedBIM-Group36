@@ -151,6 +151,14 @@ except Exception as general_exception:
 
 ### description of the code
 
+#### Used functions in the library 'ifcopenshell'
+
+* ifcopenshell.open(path)
+* ifc_file.by_guid(guid)
+  
+
+#### Used attributes in the library 'ifcopenshell'
+
 
 
 
