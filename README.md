@@ -138,5 +138,30 @@ except Exception as general_exception:
 `````
 # Assignment A4 OpenBIM Guru
 
+## Introduction
+
+## somthing 
+
+## something 
+
+## something 
+
+
+## Python code
+
+### description of the code
+
+
+
+
+### The code with comments
+```python
+
+something
+
+`````
+
+
+
 
 
