@@ -1,5 +1,6 @@
 # 41934 - Advanced BIM - Group 36
 
+# Assignment A3 OpenBIM ReModel
 ## Introduction
 The goal is to assist the user in optimizing the building and reducing material usage through FEM analysis. In this assignment, a Python script has been created to make a new property set and insert properties into an IFC file, such as the moment of inertia and Young's modulus of elasticity. These new properties are, of course, not sufficient, we also need support and actual calculations, which will be further described in the report
 
@@ -133,3 +134,9 @@ try:
 
 except Exception as general_exception:
     print(f"An error occurred: {general_exception}")
+
+`````
+# Assignment A4 OpenBIM Guru
+
+
+
