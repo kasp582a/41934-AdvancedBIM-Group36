@@ -150,16 +150,52 @@ except Exception as general_exception:
 ## Python code
 
 ### description of the code
+As descibed in the assingment A3, the code is designed to enhance an IFC file by inserting structural parameters such as the moment of inertia and Young's modulus of elasticity. This is achieved by eather creating a new PropertySet and inserting properties or editing an exiting PropertySet. The scipt use a "try" block to make error handling efficient which was very usefull when writting the code. The code are using a library called 'ifcopenshell' which are indispensable when handling ifc files, therefore the used functions and attributes from 'ifcopenshell' are descibed below.
 
 #### Used functions in the library 'ifcopenshell'
 
 * ifcopenshell.open(path)
+  
 * ifc_file.by_guid(guid)
+  
+* ifcopenshell.is_a(obj, type)
+  
+* ifcopenshell.guid.new()
+  
+* ifc_file.by_type(type_name)
+  
+* ifc_file.createIfcPropertySet(arguments)
+  
+* ifc_file.createIfcRelDefinesByProperties(arguments)
+  
+* ifc_file.createIfcReal(value)
+  
+* ifc_file.createIfcPropertySingleValue(name, value)
+  
+* ifc_file.write(path)
+  
   
 
 #### Used attributes in the library 'ifcopenshell'
 
-
+* IsDefinedBy
+  
+* Name
+  
+* HasProperties
+  
+* NominalValue
+  
+* wrappedValue
+  
+* GlobalId
+  
+* OwnerHistory
+  
+* RelatedObjects
+  
+* RelatingPropertyDefinition
+  
 
 
 ### The code with comments
