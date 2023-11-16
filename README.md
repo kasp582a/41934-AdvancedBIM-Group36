@@ -179,25 +179,20 @@ As descibed in the assingment A3, the code is designed to enhance an IFC file by
 
 #### Used attributes in the library 'ifcopenshell'
 
-* IsDefinedBy
-  
-* Name
-  
-* HasProperties
-  
-* NominalValue
-  
-* wrappedValue
-  
-* GlobalId
-  
-* OwnerHistory
-  
-* RelatedObjects
-  
-* RelatingPropertyDefinition
-  
-
+* IsDefinedBy  
+  Can access all definition associated with the element, used to get the property set of an element.
+* Name  
+  Can get a name of an entity
+* HasProperties  
+  Get the properties of a Property set, to either add or update properties
+* NominalValue  
+  This is an attribute that holds the value of the properties
+* wrappedValue  
+  This attribute is used to access or modify the underlying value of a property's   
+* RelatedObjects  
+  Create relationship between an element and a property set
+* RelatingPropertyDefinition  
+  An atribute that can takes care of the holds the property set for a element, used to check existing property set or set one. 
 
 ### The code with comments
 ```python
