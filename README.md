@@ -155,25 +155,26 @@ As descibed in the assingment A3, the code is designed to enhance an IFC file by
 #### Used functions in the library 'ifcopenshell'
 
 * ifcopenshell.open(path)
-  
+  Open an ifc file from a path
 * ifc_file.by_guid(guid)
-  
+  Used to get an element by is guid (Global ID)
 * ifcopenshell.is_a(obj, type)
-  
+  Can check if an object is a spesefic type, used to check if a object is a property set
 * ifcopenshell.guid.new()
-  
+  Makes a new Global ID
 * ifc_file.by_type(type_name)
-  
+  Get a list of all entities of a specific type, used to set OwnerHistory,
+  Which is a required parameters when making a new Propertyset.
 * ifc_file.createIfcPropertySet(arguments)
-  
+  Can create a new poperty set
 * ifc_file.createIfcRelDefinesByProperties(arguments)
-  
+  Can create relationship between elements and property sets
 * ifc_file.createIfcReal(value)
-  
+  Create a number in IFC format
 * ifc_file.createIfcPropertySingleValue(name, value)
-  
+  Can create single-value property by name and value 
 * ifc_file.write(path)
-  
+  Can save the new modefied model in a path
   
 
 #### Used attributes in the library 'ifcopenshell'
