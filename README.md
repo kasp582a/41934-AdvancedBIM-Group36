@@ -145,6 +145,11 @@ In this assignment the goal is to teach an advanced BIM concept to our fellow st
 [Link to the power point](powerpoint.pdf)
 
 ## Video
+Either download the video from github.
+[Link to the video](Video-groupe36)
+
+Or play it from youtube 
+https://www.youtube.com/watch?v=X-hkMR-AHVY&t=14s
 
 ## Python code
 
