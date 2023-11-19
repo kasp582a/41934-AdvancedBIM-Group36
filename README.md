@@ -139,6 +139,7 @@ except Exception as general_exception:
 # Assignment A4 OpenBIM Guru
 
 ## Introduction
+In this assignment the goal is to teach an advanced BIM concept to our fellow students. We are looking at optimizing the structural model through a FEM analysis. In order to do this, we will need to add new parameters to the elements inside the buidling model, in order to do the actual analysis. These would include the Youngs modulus, the moment of inertia and more. We are going to be teaching you how you can add these parameters to the model through a python script, using ifcOpenShell. 
 
 ## Power point
 [Link to the power point](powerpoint.pdf)
