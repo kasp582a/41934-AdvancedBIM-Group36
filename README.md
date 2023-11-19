@@ -141,6 +141,7 @@ except Exception as general_exception:
 ## Introduction
 
 ## Power point
+[Link to the power point](powerpoint.pdf)
 
 ## Video
 
