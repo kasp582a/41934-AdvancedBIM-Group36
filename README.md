@@ -153,7 +153,7 @@ https://www.youtube.com/watch?v=X-hkMR-AHVY&t=14s
 
 ## Python code
 
-### description of the code
+### Description of the code
 As descibed in the assingment A3, the code is designed to enhance an IFC file by inserting structural parameters such as the moment of inertia and Young's modulus of elasticity. This is achieved by eather creating a new PropertySet and inserting properties or editing an exiting PropertySet. The scipt use a "try" block to make error handling efficient which was very usefull when writting the code. The code are using a library called 'ifcopenshell' which are indispensable when handling ifc files, therefore the used functions and attributes from 'ifcopenshell' are descibed below.
 
 #### Used functions in the library 'ifcopenshell'
