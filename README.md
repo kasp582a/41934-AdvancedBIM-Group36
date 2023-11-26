@@ -1,4 +1,5 @@
 # 41934 - Advanced BIM - Group 36
+Both Assignment A3 and A4 are toghter here in the same repository
 
 # Assignment A3 OpenBIM ReModel
 ## Introduction
