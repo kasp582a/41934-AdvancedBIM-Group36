@@ -311,7 +311,9 @@ except Exception as general_exception:
 
 In the beginning, we were modellers at levels 1-3 because we all have experience with Revit and AutoCAD and are familiar with what an IFC file is and how to export it due to work experience. We also have some experience from course “11031 Building Information Modeling” where we became familiar with Dynamo. However, this experience is very limited because none of us have used the tool since then. 
 
-Now we fall under the categories of self learner and analyst. We are self-learners because with the understanding we have gained through the course, we will be able to import and export knowledge from OpenBIM sources and familiarize ourselves with new 'Use cases' using YouTube videos and additional learning material. 
+Now we fall under the categories of self learner and analyst.  
+
+We are self learners because we through the course have gained a general knowledge about OpenBIM, and can use this to analyze IFC files in Python/BlenderBIM. We may not know everything there is know, but with the basic understandings we have aquired we are now able to gather further information through Youtube videos or other learning materials. We have especially learned a lot about the understandings of analyzing IFC files through Assignment 4, because we needed to describe our use case for someone else.  
 
 We are analyst level 3 because we have gained an understanding of how OpenBIM works and can therefore use the acquired knowledge to analyze data from IFC files using Python, as we did in Assignment 2 and 3." 
 
