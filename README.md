@@ -301,26 +301,49 @@ except Exception as general_exception:
 # Assignment A5 Reflection
 
 ## Your learning experience for the concept you focused on
-* Identify your own level at the beginning of this course and where you ended :
+* Identify your own level at the beginning of this course and where you ended
+In the beginning, we were modellers at levels 1-3 because we all have experience with Revit and AutoCAD and are familiar with what an IFC file is and how to export it due to work experience. We also have some experience from course “11031 Building Information Modeling” where we became familiar with Dynamo. However, this experience is very limited because none of us have used the tool since then. 
+
+Now we fall under the categories of self learner and analyst. We are self-learners because with the understanding we have gained through the course, we will be able to import and export knowledge from OpenBIM sources and familiarize ourselves with new 'Use cases' using YouTube videos and additional learning material. 
+
+We are analyst level 3 because we have gained an understanding of how OpenBIM works and can therefore use the acquired knowledge to analyze data from IFC files using Python, as we did in Assignment 2 and 3." 
+
 * What else do you still need to learn
+How to work with IFC files in other programs such as grasshopper, etc. We also need to learn how to use other OpenBIM sources other than Blender, such as Navisworks. It would also be relevant to work on our skills when it comes to extracting data and putting information into the IFC files, so that we can make our use case a reality.  
+
 * How you might use OpenBIM in the future
+Generally, we don't anticipate using Python or any programs that modify IFC files, given our collective goal to become structural engineers. However, we do plan to utilize OpenBIM tools for building analysis. For instance, the FE-Analysis program "FEM-Design" is capable of importing IFC files to analyze structural elements, which will be useful in our future. This course has extended our knowledge of how these programs process various parameters. It has also enhanced our understanding of the diverse professionals who use OpenBIM, showing its important role in the future of Engineering. 
 
 ## Your process of developing the tutorial 
 * Did the process of the course enable you to answer or define questions that you might need later for thesis?
+All three of us are planning on following a structural path, also when it comes to our thesis. Our knowledge of OpenBIM may aid us when we start working in an engineering firm later on in our lives, but for the thesis we do not see ourselves ourselves using it.  
+
 * Would you have preferred to have been given less choice in the use cases?
+Yes, sometimes the assignments were hard to understand because we were given free reins. This sometimes made it hard to get started because we didn’t really know how to start. Also, because the person who made the assignments in the first place was not present, it was sometimes hard to get the needed help. 
+
 * Was the number of tools for the course ok - should we have more or less? - if so which ones would you leave out?
+The number of tools available seemed to be okay. It is a bit hard to judge because we used the tools we were given, and made it work with those, but there might have been other tools that would have made it easier, we just don’t know it.  
 
 ## Your recieved feedback on the tutorial 
 * Did the tool address the use case you identified?
+The use case was to optimize the building through FEM-analysis. The tool that was created is only meant to add a few properties to the beams and columns in the model, and not to do the analysis itself. In the future it would be relevant to make an easy way to add all the properties too all the beams and columns, and based on this information, make the analysis. The only remark to the tool was that we needed to clarify where we get Young’s modulus and moment of inertia from, as we haven’t specified these are material standards.  
+
 * Was the use case well modelled
+Yes. There weren’t any difficulties in understanding what the use case was.  
+  
 * Was the project clearly scoped
+Yes. The scope was to implement properties such as Youngs Modulus and moment of inertia for beams and columns. This was done through the python code.  
 
 ## Your future for Advanced use of OpenBIM 
 * Are you likely to use OpenBIM tools in your thesis?
+Currently, our group consensus is that none of us plan to incorporate OpenBIM into our thesis work. Our primary reason for choosing this course was to gain an understanding of Advanced BIM and the application of IFC files. However, there remains a possibility that one of us might eventually find a use for it.  
+
 * Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
+As previously mentioned, the FE-Analysis program "FEM-Design" is capable of utilizing IFC files, and there are likely other software programs beneficial for structural engineers that also use IFC. Therefore, there's a good chance that some or all of us might use OpenBIM in our professional careers. 
 
 ## Wrap up 
-* Conclude the journey through A1-A5  
+* Conclude the journey through A1-A5
+In our course, we tackled a series of assignments that really helped us understand IFC files. For our first assignment (A1), we opened IFC files in Excel and created dashboards for specific areas. This gave us a good start in understanding how things are connected. Then, in assignment (A2), we used Blender BIM to extract information from IFC files, which showed us how much we can do with these files. The third assignment (A3) was about putting information back into IFC files, where we saw the practical side of what we were learning. Finally, for assignment (A4), we got the chance to teach others how to use the program we developed for IFC files. Each assignment built on the last, making it a really hands-on and useful learning experience for us as students. 
 
 
 
