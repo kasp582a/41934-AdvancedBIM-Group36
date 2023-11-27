@@ -2,6 +2,9 @@
 Assignment A3, A4 and A5 are together here in the same repository.
 
 [Link to A3](README.md#assignment-a3-openbim-remodel)
+[Link to A4](README.md#assignment-a4-openbim-guru)
+[Link to A5](README.md#assignment-a5-reflection)
+
 
 
 # Assignment A3 OpenBIM ReModel
