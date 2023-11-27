@@ -53,7 +53,7 @@ The advanced analysis capabilities of the tool will likely facilitate early dete
 
 Material optimization directly contributes to environmental conservation by decreasing the demand for raw materials, thereby reducing the environmental footprint of construction projects.
 
-# IFC models
+## IFC models
 
 The model used and the modified model are uploaded on learn due to them beeing a skylab model.
 
@@ -297,6 +297,31 @@ except Exception as general_exception:
     print(f"An error occurred: {general_exception}")
 
 `````
+
+# Assignment A5 Reflection
+
+## Your learning experience for the concept you focused on
+* Identify your own level at the beginning of this course and where you ended :
+* What else do you still need to learn
+* How you might use OpenBIM in the future
+
+## Your process of developing the tutorial 
+* Did the process of the course enable you to answer or define questions that you might need later for thesis?
+* Would you have preferred to have been given less choice in the use cases?
+* Was the number of tools for the course ok - should we have more or less? - if so which ones would you leave out?
+
+## Your recieved feedback on the tutorial 
+* Did the tool address the use case you identified?
+* Was the use case well modelled
+* Was the project clearly scoped
+
+## Your future for Advanced use of OpenBIM 
+* Are you likely to use OpenBIM tools in your thesis?
+* Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
+
+## Wrap up 
+* Conclude the journey through A1-A5  
+
 
 
 
